@@ -1,0 +1,2 @@
+- [ ] drone
+- [ ] extra battery
