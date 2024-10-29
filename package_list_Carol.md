@@ -1,0 +1,4 @@
+- [] drone
+- [] extra battery
+- [] camera
+- [] spare rotors
