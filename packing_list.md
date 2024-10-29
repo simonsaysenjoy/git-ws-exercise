@@ -5,3 +5,6 @@
 - [ ] water bottle
 - [ ] sleeping pad
 - [ ] extrawarm blanket
+- [ ] headlamp
+- [ ] gas stove
+- [ ] blankets
