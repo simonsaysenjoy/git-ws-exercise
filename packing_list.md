@@ -4,3 +4,6 @@
 - [ ] hiking boots
 - [ ] water bottle
 - [ ] sleeping pad
+- [ ] headlamp
+- [ ] gas stove
+- [ ] blankets
